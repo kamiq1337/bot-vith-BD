@@ -6,7 +6,7 @@ photo_url1= 'https://imgur.com/a/tEnEHmP'#мои фильмы
 photo_url2= 'https://imgur.com/a/LRjrPca'#админ запрос
 photo_url3= 'https://imgur.com/a/eqdAia3'#добавить фильм
 # Создаем бота
-bot = telebot.TeleBot('6967644763:AAEkh2SiaJrXYI9uwUpcKHY6Yo26EzCzt9E')
+bot = telebot.TeleBot('token')
 
 # Создаем клавиатуру для inline-кнопок
 keyboard = telebot.types.InlineKeyboardMarkup()
